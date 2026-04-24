@@ -38,11 +38,11 @@
                         <a href="/products?category=wedding">Nhẫn cưới</a>
                     </li>
                     <li class="nav-dropdown">
-                        <a href="/products?category=diamond">Kim Cương</a>
+                        <a href="/products?category=kim-cuong">Kim Cương</a>
                     </li>
-                    <li><a href="/products?category=luxury">Trang sức cao cấp</a></li>
+                    <li><a href="/products?category=trang-suc-cao-cap">Trang sức cao cấp</a></li>
                     <li class="nav-dropdown">
-                        <a href="/products">Trang sức</a>
+                        <a href="/products?category=trang-suc">Trang sức</a>
                     </li>
                     <li>
                         <a href="/news" class="active">Tin tức</a>
@@ -110,7 +110,7 @@
                         <?= $article['content'] ?>
 
                         <div class="news-detail-cta">
-                            <a href="/products" class="btn-primary">Xem bộ sưu tập</a>
+                            <a href="/products?category=trang-suc" class="btn-primary">Xem bộ sưu tập</a>
                         </div>
                     </div>
 

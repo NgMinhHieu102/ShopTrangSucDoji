@@ -62,7 +62,7 @@ $pageTitle = 'Giỏ hàng';
                     <li><a href="/products?category=nhan-cuoi">Nhẫn cưới</a></li>
                     <li><a href="/products?category=kim-cuong">Kim Cương</a></li>
                     <li><a href="/products?category=trang-suc-cao-cap">Trang sức cao cấp</a></li>
-                    <li><a href="/products">Trang sức</a></li>
+                    <li><a href="/products?category=trang-suc">Trang sức</a></li>
                     <li><a href="/news">Tin tức</a></li>
                 </ul>
             </nav>
@@ -128,7 +128,7 @@ $pageTitle = 'Giỏ hàng';
                     <i class="fas fa-shopping-bag"></i>
                     <h3>Giỏ hàng trống</h3>
                     <p>Bạn chưa có sản phẩm nào trong giỏ hàng</p>
-                    <a href="/products">Tiếp tục mua sắm</a>
+                    <a href="/products?category=trang-suc">Tiếp tục mua sắm</a>
                 </div>
             <?php else: ?>
                 <div class="cart-container">
@@ -202,7 +202,7 @@ $pageTitle = 'Giỏ hàng';
                         <li><a href="/products?category=nhan-cau-hon">Nhẫn cầu hôn</a></li>
                         <li><a href="/products?category=nhan-cuoi">Nhẫn cưới</a></li>
                         <li><a href="/products?category=kim-cuong">Kim cương</a></li>
-                        <li><a href="/products">Trang sức</a></li>
+                        <li><a href="/products?category=trang-suc">Trang sức</a></li>
                     </ul>
                 </div>
                 <div class="footer-column">

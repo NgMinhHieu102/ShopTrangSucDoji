@@ -294,7 +294,7 @@
                                 <div class="dropdown-image-jewelry">
                                     <img src="https://cdn.pnj.io/images/detailed/258/on-gcpa00y060018-day-co-vang-18k-dinh-ngoc-trai-akoya-pnj-3.jpg" alt="Trang sức">
                                     <div class="dropdown-image-footer">
-                                        <a href="/products" class="dropdown-link">
+                                        <a href="/products?category=trang-suc" class="dropdown-link">
                                             Tất cả sản phẩm <i class="fas fa-arrow-right"></i>
                                         </a>
                                     </div>

@@ -36,7 +36,7 @@
                     <li><a href="/products?category=nhan-cuoi">Nhẫn cưới</a></li>
                     <li><a href="/products?category=kim-cuong">Kim Cương</a></li>
                     <li><a href="/products?category=trang-suc-cao-cap">Trang sức cao cấp</a></li>
-                    <li><a href="/products">Trang sức</a></li>
+                    <li><a href="/products?category=trang-suc">Trang sức</a></li>
                 </ul>
             </nav>
         </div>
@@ -92,7 +92,7 @@
             
             <div class="btn-group">
                 <a href="/" class="btn btn-primary">Về trang chủ</a>
-                <a href="/products" class="btn btn-secondary">Tiếp tục mua sắm</a>
+                <a href="/products?category=trang-suc" class="btn btn-secondary">Tiếp tục mua sắm</a>
             </div>
         </div>
     </section>

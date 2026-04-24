@@ -59,7 +59,7 @@ $pageTitle = 'Thanh toán';
                     <li><a href="/products?category=nhan-cuoi">Nhẫn cưới</a></li>
                     <li><a href="/products?category=kim-cuong">Kim Cương</a></li>
                     <li><a href="/products?category=trang-suc-cao-cap">Trang sức cao cấp</a></li>
-                    <li><a href="/products">Trang sức</a></li>
+                    <li><a href="/products?category=trang-suc">Trang sức</a></li>
                 </ul>
             </nav>
             <div class="header-right">

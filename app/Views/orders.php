@@ -210,7 +210,7 @@ $statusLabels = [
                         <i class="fas fa-shopping-bag"></i>
                         <h3>Chưa có đơn hàng nào</h3>
                         <p>Bạn chưa có đơn hàng nào. Hãy khám phá và mua sắm ngay!</p>
-                        <a href="/products" class="btn-shop">Khám phá sản phẩm</a>
+                        <a href="/products?category=trang-suc" class="btn-shop">Khám phá sản phẩm</a>
                     </div>
                     <?php else: ?>
                     <div class="orders-list">

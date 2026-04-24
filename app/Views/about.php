@@ -167,7 +167,7 @@
                         </div>
                     </li>
                     <li class="nav-dropdown">
-                        <a href="/products?category=diamond">Kim Cương</a>
+                        <a href="/products?category=kim-cuong">Kim Cương</a>
                         <div class="dropdown-menu dropdown-diamond">
                             <div class="dropdown-content-diamond">
                                 <div class="dropdown-column">
@@ -230,9 +230,9 @@
                             </div>
                         </div>
                     </li>
-                    <li><a href="/products?category=luxury">Trang sức cao cấp</a></li>
+                    <li><a href="/products?category=trang-suc-cao-cap">Trang sức cao cấp</a></li>
                     <li class="nav-dropdown">
-                        <a href="/products">Trang sức</a>
+                        <a href="/products?category=trang-suc">Trang sức</a>
                         <div class="dropdown-menu dropdown-jewelry">
                             <div class="dropdown-content-jewelry">
                                 <div class="dropdown-column">
@@ -295,7 +295,7 @@
                                 <div class="dropdown-image-jewelry">
                                     <img src="https://cdn.pnj.io/images/detailed/258/on-gcpa00y060018-day-co-vang-18k-dinh-ngoc-trai-akoya-pnj-3.jpg" alt="Trang sức">
                                     <div class="dropdown-image-footer">
-                                        <a href="/products" class="dropdown-link">
+                                        <a href="/products?category=trang-suc" class="dropdown-link">
                                             Tất cả sản phẩm <i class="fas fa-arrow-right"></i>
                                         </a>
                                     </div>

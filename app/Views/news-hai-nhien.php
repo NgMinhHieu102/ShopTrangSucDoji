@@ -28,9 +28,9 @@
                 <ul>
                     <li><a href="/products?category=engagement">Nhẫn cầu hôn</a></li>
                     <li><a href="/products?category=wedding">Nhẫn cưới</a></li>
-                    <li><a href="/products?category=diamond">Kim Cương</a></li>
-                    <li><a href="/products?category=luxury">Trang sức cao cấp</a></li>
-                    <li><a href="/products">Trang sức</a></li>
+                    <li><a href="/products?category=kim-cuong">Kim Cương</a></li>
+                    <li><a href="/products?category=trang-suc-cao-cap">Trang sức cao cấp</a></li>
+                    <li><a href="/products?category=trang-suc">Trang sức</a></li>
                     <li><a href="/news" class="active">Tin tức</a></li>
                 </ul>
             </nav>
@@ -101,7 +101,7 @@
                         <p>Hãy ghé thăm các cửa hàng Tierra trên toàn quốc để trải nghiệm trực tiếp vẻ đẹp của bộ sưu tập "Hải Nhiên"!</p>
 
                         <div class="news-detail-cta">
-                            <a href="/products" class="btn-primary">Xem bộ sưu tập</a>
+                            <a href="/products?category=trang-suc" class="btn-primary">Xem bộ sưu tập</a>
                         </div>
                     </div>
 

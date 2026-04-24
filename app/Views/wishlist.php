@@ -136,7 +136,7 @@
                 <i class="far fa-heart"></i>
                 <h2>Danh sách yêu thích trống</h2>
                 <p>Bạn chưa có sản phẩm nào trong danh sách yêu thích</p>
-                <a href="/products" class="btn-shop">Khám phá sản phẩm</a>
+                <a href="/products?category=trang-suc" class="btn-shop">Khám phá sản phẩm</a>
             </div>
             <?php else: ?>
             <div class="wishlist-grid">
