@@ -32,8 +32,8 @@ $pathSegments = explode('/', $path);
 $mainPath = $pathSegments[0] ?? '';
 $subPath = $pathSegments[1] ?? '';
 
-// Debug (xóa sau khi test)
-// error_log("Path: $path | MainPath: $mainPath | SubPath: $subPath");
+// Debug
+error_log("Path: $path | MainPath: $mainPath | SubPath: $subPath");
 
 switch ($mainPath) {
     case '':
