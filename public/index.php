@@ -93,10 +93,22 @@ switch ($mainPath) {
         
         $action = $query_params['action'] ?? 'dashboard';
         
-        if ($action === 'logout') {
-            $controller->logout();
-        } else {
-            $controller->dashboard();
+        switch ($action) {
+            case 'logout':
+                $controller->logout();
+                break;
+            case 'orders':
+                $controller->orders();
+                break;
+            case 'products':
+                $controller->products();
+                break;
+            case 'customers':
+                $controller->customers();
+                break;
+            default:
+                $controller->dashboard();
+                break;
         }
         break;
     

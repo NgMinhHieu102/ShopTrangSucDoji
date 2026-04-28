@@ -31,6 +31,61 @@ class AdminController {
         require_once BASE_PATH . '/app/Views/admin/dashboard.php';
     }
     
+    public function orders() {
+        // Kiểm tra đăng nhập admin
+        if (!isset($_SESSION['admin_id'])) {
+            header('Location: /login');
+            exit;
+        }
+        
+        // Lấy tất cả đơn hàng
+        $stmt = $this->db->query("
+            SELECT o.*, u.full_name as customer_name
+            FROM orders o
+            LEFT JOIN users u ON o.user_id = u.id
+            ORDER BY o.created_at DESC
+        ");
+        $orders = $stmt->fetchAll(PDO::FETCH_ASSOC);
+        
+        require_once BASE_PATH . '/app/Views/admin/orders.php';
+    }
+    
+    public function products() {
+        // Kiểm tra đăng nhập admin
+        if (!isset($_SESSION['admin_id'])) {
+            header('Location: /login');
+            exit;
+        }
+        
+        // Lấy tất cả sản phẩm
+        $stmt = $this->db->query("SELECT * FROM products ORDER BY created_at DESC");
+        $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
+        
+        require_once BASE_PATH . '/app/Views/admin/products.php';
+    }
+    
+    public function customers() {
+        // Kiểm tra đăng nhập admin
+        if (!isset($_SESSION['admin_id'])) {
+            header('Location: /login');
+            exit;
+        }
+        
+        // Lấy tất cả khách hàng
+        $stmt = $this->db->query("
+            SELECT u.*, 
+                   COUNT(DISTINCT o.id) as total_orders,
+                   COALESCE(SUM(o.total_amount), 0) as total_spent
+            FROM users u
+            LEFT JOIN orders o ON u.id = o.user_id
+            GROUP BY u.id
+            ORDER BY u.created_at DESC
+        ");
+        $customers = $stmt->fetchAll(PDO::FETCH_ASSOC);
+        
+        require_once BASE_PATH . '/app/Views/admin/customers.php';
+    }
+    
     
     public function logout() {
         unset($_SESSION['admin_id']);
