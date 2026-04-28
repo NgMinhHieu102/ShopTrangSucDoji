@@ -36,7 +36,7 @@ class AuthController {
             if ($email === 'admin' && $password === 'admin123') {
                 $_SESSION['admin_id'] = 1;
                 $_SESSION['admin_name'] = 'Administrator';
-                header('Location: /admin/dashboard');
+                header('Location: /admin');
                 exit;
             }
             

@@ -345,12 +345,12 @@
         </div>
         
         <ul class="sidebar-menu">
-            <li><a href="/admin/dashboard" class="active"><i class="fas fa-chart-line"></i> Dashboard</a></li>
-            <li><a href="/admin/orders"><i class="fas fa-shopping-bag"></i> Đơn hàng</a></li>
-            <li><a href="/admin/products"><i class="fas fa-gem"></i> Sản phẩm</a></li>
-            <li><a href="/admin/customers"><i class="fas fa-users"></i> Khách hàng</a></li>
-            <li><a href="/admin/reports"><i class="fas fa-file-alt"></i> Báo cáo</a></li>
-            <li><a href="/admin/settings"><i class="fas fa-cog"></i> Cài đặt</a></li>
+            <li><a href="/admin" class="active"><i class="fas fa-chart-line"></i> Dashboard</a></li>
+            <li><a href="/admin?action=orders"><i class="fas fa-shopping-bag"></i> Đơn hàng</a></li>
+            <li><a href="/admin?action=products"><i class="fas fa-gem"></i> Sản phẩm</a></li>
+            <li><a href="/admin?action=customers"><i class="fas fa-users"></i> Khách hàng</a></li>
+            <li><a href="/admin?action=reports"><i class="fas fa-file-alt"></i> Báo cáo</a></li>
+            <li><a href="/admin?action=settings"><i class="fas fa-cog"></i> Cài đặt</a></li>
         </ul>
     </aside>
     
@@ -367,7 +367,7 @@
                         <div style="font-size: 12px; color: #999;">Admin</div>
                     </div>
                 </div>
-                <button class="btn-logout" onclick="window.location.href='/admin/logout'">
+                <button class="btn-logout" onclick="window.location.href='/admin?action=logout'">
                     <i class="fas fa-sign-out-alt"></i> Đăng xuất
                 </button>
             </div>
@@ -437,7 +437,7 @@
         <div class="table-card">
             <div class="table-header">
                 <h3><i class="fas fa-shopping-bag"></i> Đơn hàng gần đây</h3>
-                <a href="/admin/orders" style="color: #667eea; text-decoration: none; font-size: 14px;">Xem tất cả →</a>
+                <a href="/admin?action=orders" style="color: #667eea; text-decoration: none; font-size: 14px;">Xem tất cả →</a>
             </div>
             
             <table>

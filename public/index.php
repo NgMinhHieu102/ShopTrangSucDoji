@@ -91,12 +91,11 @@ switch ($mainPath) {
         require BASE_PATH . '/app/Controllers/AdminController.php';
         $controller = new AdminController();
         
-        if ($subPath === 'logout') {
+        $action = $query_params['action'] ?? 'dashboard';
+        
+        if ($action === 'logout') {
             $controller->logout();
-        } elseif ($subPath === 'dashboard' || $subPath === '') {
-            $controller->dashboard();
         } else {
-            // Các trang admin khác sẽ thêm sau
             $controller->dashboard();
         }
         break;
