@@ -399,7 +399,7 @@
                         <iframe 
                             width="100%" 
                             height="350" 
-                            src="https://www.youtube.com/embed/f4qssbx_OqU?start=29" 
+                            src="https://www.youtube.com/embed/RCMiLmh5JOU" 
                             title="happiness bespoken" 
                             frameborder="0" 
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
@@ -718,7 +718,7 @@
     <script src="/js/auth-dropdown.js?v=1"></script>
     <script>
         function openVideo() {
-            window.open('https://youtube.com/watch?v=f4qssbx_OqU&time_continue=29&source_ve_path=NzY3NTg&embeds_referring_euri=https%3A%2F%2Fwww.tierra.vn%2F', '_blank');
+            window.open('https://www.youtube.com/watch?v=RCMiLmh5JOU', '_blank');
         }
         
         function toggleAccordion(index) {
