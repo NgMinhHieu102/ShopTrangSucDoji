@@ -25,7 +25,7 @@
             top: 0;
             width: 260px;
             height: 100vh;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: #1a1a1a;
             color: white;
             padding: 20px 0;
             z-index: 1000;
@@ -67,8 +67,8 @@
         
         .sidebar-menu a:hover,
         .sidebar-menu a.active {
-            background: rgba(255,255,255,0.1);
-            border-left: 4px solid white;
+            background: #333;
+            border-left: 4px solid #c9a84c;
         }
         
         .sidebar-menu i {
@@ -115,7 +115,7 @@
             width: 40px;
             height: 40px;
             border-radius: 50%;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: #1a1a1a;
             display: flex;
             align-items: center;
             justify-content: center;
