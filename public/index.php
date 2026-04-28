@@ -301,22 +301,22 @@ switch ($mainPath) {
                     'content' => '<p>Ra mắt hơn 40+ thiết kế, "Hải Nhiên" là lời gọi mở cho mùa hè: chọn những điều nhẹ nhàng hơn, những vấn đề khiến bạn cảm thấy thoải mái và tự tin.</p><p>Bộ sưu tập lấy cảm hứng từ vẻ đẹp thanh thoát của biển cả, mang đến những thiết kế tinh tế và sang trọng.</p>'
                 ],
                 'moc-nguyen' => [
-                    'title' => 'Tierra Ra Mắt BST Tháng 3 "Mộc Nguyên" – Vẻ Đẹp Mộc Mạc Cho Mọi Khởi Đầu Mới!',
+                    'title' => 'DOJI Ra Mắt BST Tháng 3 "Mộc Nguyên" – Vẻ Đẹp Mộc Mạc Cho Mọi Khởi Đầu Mới!',
                     'image' => '/images/tintuc2.png',
                     'date' => '01/03/2026',
                     'content' => '<p>Ra mắt vào tháng 3 – tháng của sự yêu thương và lãng mạn – "Mộc Nguyên" như một lời chào đầu xuân dành gửi đến những người phụ nữ hiện đại.</p><p>Bộ sưu tập mang đậm phong cách tối giản nhưng không kém phần tinh tế, thể hiện vẻ đẹp tự nhiên và thuần khiết.</p>'
                 ],
                 'qua-tet' => [
-                    'title' => '"QUÀ TẾT TRAO TAY - NHẬN NGAY ÁO MỚI" - Tierra tặng áo thun cho hóa đơn từ 1 triệu 2',
+                    'title' => '"QUÀ TẾT TRAO TAY - NHẬN NGAY ÁO MỚI" - DOJI tặng áo thun cho hóa đơn từ 1 triệu 2',
                     'image' => 'https://cdn.pnj.io/images/promo/284/thong-tin-gia-vang.png',
                     'date' => '20/01/2026',
                     'content' => '<p>Với mỗi hóa đơn 1 triệu 2 (sau khi áp dụng đổi điểm), các nàng sẽ được TẶNG NGAY một chiếc ÁO THUN siêu xinh!</p><p>Chương trình áp dụng trong dịp Tết Nguyên Đán, mang đến những món quà ý nghĩa cho khách hàng thân thiết.</p>'
                 ],
                 'khuc-xuan-thi' => [
-                    'title' => 'Tierra ra mắt bộ sưu tập xuân "Khúc Xuân Thi" – Thiết kế trang sức vàng đầy xinh đẹp',
+                    'title' => 'DOJI ra mắt bộ sưu tập xuân "Khúc Xuân Thi" – Thiết kế trang sức vàng đầy xinh đẹp',
                     'image' => 'https://www.pnj.com.vn/blog/wp-content/uploads/2022/10/kim-cuong-roi-la-gi-co-nen-mua-kim-cuong-roi-tai-pnj-thumb1.jpg',
                     'date' => '10/02/2026',
-                    'content' => '<p>Lấy cảm hứng từ chính khoảnh khắc giao mùa đầy thú vị của mùa Xuân, Tierra chính thức ra mắt bộ sưu tập trang sức xuân mang đậm chất thơ mộng.</p><p>Những thiết kế tinh xảo với họa tiết hoa lá mùa xuân, tạo nên vẻ đẹp tươi mới và rạng rỡ.</p>'
+                    'content' => '<p>Lấy cảm hứng từ chính khoảnh khắc giao mùa đầy thú vị của mùa Xuân, DOJI chính thức ra mắt bộ sưu tập trang sức xuân mang đậm chất thơ mộng.</p><p>Những thiết kế tinh xảo với họa tiết hoa lá mùa xuân, tạo nên vẻ đẹp tươi mới và rạng rỡ.</p>'
                 ],
                 'di-sac' => [
                     'title' => 'Bộ sưu tập "Dí Sắc" - Tôn vinh vẻ đẹp kim cương tinh khiết',

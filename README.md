@@ -1,6 +1,6 @@
-# Tierra Jewelry Shop
+# DOJI Jewelry Shop
 
-Website bán trang sức cao cấp - Tierra
+Website bán trang sức cao cấp - DOJI
 
 ## Tính năng
 

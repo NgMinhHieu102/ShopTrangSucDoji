@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cửa Hàng Trang Sức Cao Cấp - Tierra</title>
+    <title>Cửa Hàng Trang Sức Cao Cấp - DOJI</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/search.css">
     <link rel="stylesheet" href="css/auth-dropdown.css">
@@ -20,7 +20,7 @@
         <div class="container">
             <!-- Logo -->
             <div class="logo">
-                <a href="/"><img src="https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNjlmMGQ4OGM2NmQ4ODE5MTlmNDg3OWQxMTA2OWFhNDA6ZmlsZV8wMDAwMDAwMGQwZTA3MjA5OTMxZGFjNmI2YTMxMmVjOCIsInRzIjoiMjA1NzEiLCJwIjoicHlpIiwiY2lkIjoiMSIsInNpZyI6ImU2Mjc0NTY3YjBiYjQyNzMxNjM1M2M0MTEwY2JiMzA0ZTk1OTExNjFiYjk3NmJhYmUzOTc5NTQwYmQ3YjhiM2QiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsLCJjcyI6bnVsbCwiY2RuIjpudWxsLCJjcCI6bnVsbCwibWEiOm51bGx9" alt="Tierra"></a>
+                <a href="/"><img src="https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNjlmMGQ4OGM2NmQ4ODE5MTlmNDg3OWQxMTA2OWFhNDA6ZmlsZV8wMDAwMDAwMGQwZTA3MjA5OTMxZGFjNmI2YTMxMmVjOCIsInRzIjoiMjA1NzEiLCJwIjoicHlpIiwiY2lkIjoiMSIsInNpZyI6ImU2Mjc0NTY3YjBiYjQyNzMxNjM1M2M0MTEwY2JiMzA0ZTk1OTExNjFiYjk3NmJhYmUzOTc5NTQwYmQ3YjhiM2QiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsLCJjcyI6bnVsbCwiY2RuIjpudWxsLCJjcCI6bnVsbCwibWEiOm51bGx9" alt="DOJI"></a>
             </div>
 
             <!-- Mobile Menu Toggle -->
@@ -569,10 +569,10 @@
                     <div class="news-card-item">
                         <div class="news-card-image">
                             <img src="images/tintuc1.png" alt="Mộc Nguyên">
-                            <span class="news-badge">Tierra</span>
+                            <span class="news-badge">DOJI</span>
                         </div>
                         <div class="news-card-info">
-                            <h3 class="news-card-title">Tierra Ra Mắt BST Tháng 3 "Mộc Nguyên" – Vẻ Đẹp Mộc Mạc Cho Mọi Khởi Đầu Mới!</h3>
+                            <h3 class="news-card-title">DOJI Ra Mắt BST Tháng 3 "Mộc Nguyên" – Vẻ Đẹp Mộc Mạc Cho Mọi Khởi Đầu Mới!</h3>
                             <p class="news-card-desc">Ra mắt vào tháng 3 – tháng của sự yêu thương và lãn mạn phép đẹp – "Mộc Nguyên" như một lời chào đầu dành gửi đến những người phụ nữ yêu trang sức tinh tế...</p>
                             <a href="#" class="news-card-link">Xem thêm</a>
                         </div>
@@ -581,10 +581,10 @@
                     <div class="news-card-item">
                         <div class="news-card-image">
                             <img src="images/tintuc2.png" alt="Quà Tết">
-                            <span class="news-badge">Tierra</span>
+                            <span class="news-badge">DOJI</span>
                         </div>
                         <div class="news-card-info">
-                            <h3 class="news-card-title">"QUÀ TẾT TRAO TAY - NHẬN NGAY ÁO MỚI" - Tierra tặng áo thun cho hóa đơn từ 1 triệu 2</h3>
+                            <h3 class="news-card-title">"QUÀ TẾT TRAO TAY - NHẬN NGAY ÁO MỚI" - DOJI tặng áo thun cho hóa đơn từ 1 triệu 2</h3>
                             <p class="news-card-desc">Với mỗi hóa đơn 1 triệu 2 (sau khi áp dụng đối điểm), các nàng sẽ được TẶNG NGAY một chiếc ÁO THUN siêu xinh khi mua trang sức!</p>
                             <a href="#" class="news-card-link">Xem thêm</a>
                         </div>
@@ -593,11 +593,11 @@
                     <div class="news-card-item">
                         <div class="news-card-image">
                             <img src="https://cdn.pnj.io/images/promo/284/thong-tin-gia-vang.png" alt="Khúc Xuân Thi">
-                            <span class="news-badge">Tierra</span>
+                            <span class="news-badge">DOJI</span>
                         </div>
                         <div class="news-card-info">
-                            <h3 class="news-card-title">Tierra ra mắt bộ sưu tập xuân "Khúc Xuân Thi" – Sở thiết kế trang sức vàng đầm xinh đẹp</h3>
-                            <p class="news-card-desc">Lấy cảm hứng từ chính khoảnh khắc giao mùa đầy thì vị của mùa Xuân, Tierra chính thức ra mắt bộ sưu tập trang sức xuân mang đậm chất thơ mộng...</p>
+                            <h3 class="news-card-title">DOJI ra mắt bộ sưu tập xuân "Khúc Xuân Thi" – Sở thiết kế trang sức vàng đầm xinh đẹp</h3>
+                            <p class="news-card-desc">Lấy cảm hứng từ chính khoảnh khắc giao mùa đầy thì vị của mùa Xuân, DOJI chính thức ra mắt bộ sưu tập trang sức xuân mang đậm chất thơ mộng...</p>
                             <a href="#" class="news-card-link">Xem thêm</a>
                         </div>
                     </div>
@@ -672,7 +672,7 @@
 
             <!-- Footer Bottom -->
             <div class="footer-bottom">
-                <p>&copy; 2026 Tierra. All rights reserved.</p>
+                <p>&copy; 2026 DOJI. All rights reserved.</p>
                 <div class="footer-payment">
                     <span>Phương thức thanh toán:</span>
                     <i class="fab fa-cc-visa"></i>

@@ -21,7 +21,7 @@ $user = $stmt->fetch(PDO::FETCH_ASSOC);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tài khoản của tôi - Tierra</title>
+    <title>Tài khoản của tôi - DOJI</title>
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/search.css">
     <link rel="stylesheet" href="/css/auth-dropdown.css">
@@ -87,7 +87,7 @@ $user = $stmt->fetch(PDO::FETCH_ASSOC);
     <!-- Header -->
     <header class="header">
         <div class="container">
-            <div class="logo"><a href="/"><img src="https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNjlmMGQ4OGM2NmQ4ODE5MTlmNDg3OWQxMTA2OWFhNDA6ZmlsZV8wMDAwMDAwMGQwZTA3MjA5OTMxZGFjNmI2YTMxMmVjOCIsInRzIjoiMjA1NzEiLCJwIjoicHlpIiwiY2lkIjoiMSIsInNpZyI6ImU2Mjc0NTY3YjBiYjQyNzMxNjM1M2M0MTEwY2JiMzA0ZTk1OTExNjFiYjk3NmJhYmUzOTc5NTQwYmQ3YjhiM2QiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsLCJjcyI6bnVsbCwiY2RuIjpudWxsLCJjcCI6bnVsbCwibWEiOm51bGx9" alt="Tierra"></a></div>
+            <div class="logo"><a href="/"><img src="https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNjlmMGQ4OGM2NmQ4ODE5MTlmNDg3OWQxMTA2OWFhNDA6ZmlsZV8wMDAwMDAwMGQwZTA3MjA5OTMxZGFjNmI2YTMxMmVjOCIsInRzIjoiMjA1NzEiLCJwIjoicHlpIiwiY2lkIjoiMSIsInNpZyI6ImU2Mjc0NTY3YjBiYjQyNzMxNjM1M2M0MTEwY2JiMzA0ZTk1OTExNjFiYjk3NmJhYmUzOTc5NTQwYmQ3YjhiM2QiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsLCJjcyI6bnVsbCwiY2RuIjpudWxsLCJjcCI6bnVsbCwibWEiOm51bGx9" alt="DOJI"></a></div>
             <button class="mobile-menu-toggle" onclick="toggleMobileMenu()"><i class="fas fa-bars"></i></button>
             <nav class="nav-menu" id="navMenu">
                 <ul>
@@ -211,7 +211,7 @@ $user = $stmt->fetch(PDO::FETCH_ASSOC);
         <div class="container">
             <div class="footer-content">
                 <div class="footer-column">
-                    <div class="footer-logo">Tierra</div>
+                    <div class="footer-logo">DOJI</div>
                     <p class="footer-tagline">happiness bespoke</p>
                 </div>
                 <div class="footer-column">

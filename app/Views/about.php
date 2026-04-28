@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Về Chúng Tôi - Tierra</title>
+    <title>Về Chúng Tôi - DOJI</title>
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/search.css">
     <link rel="stylesheet" href="/css/auth-dropdown.css">
@@ -19,7 +19,7 @@
     <header class="header">
         <div class="container">
             <div class="logo">
-                <a href="/"><img src="https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNjlmMGQ4OGM2NmQ4ODE5MTlmNDg3OWQxMTA2OWFhNDA6ZmlsZV8wMDAwMDAwMGQwZTA3MjA5OTMxZGFjNmI2YTMxMmVjOCIsInRzIjoiMjA1NzEiLCJwIjoicHlpIiwiY2lkIjoiMSIsInNpZyI6ImU2Mjc0NTY3YjBiYjQyNzMxNjM1M2M0MTEwY2JiMzA0ZTk1OTExNjFiYjk3NmJhYmUzOTc5NTQwYmQ3YjhiM2QiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsLCJjcyI6bnVsbCwiY2RuIjpudWxsLCJjcCI6bnVsbCwibWEiOm51bGx9" alt="Tierra"></a>
+                <a href="/"><img src="https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNjlmMGQ4OGM2NmQ4ODE5MTlmNDg3OWQxMTA2OWFhNDA6ZmlsZV8wMDAwMDAwMGQwZTA3MjA5OTMxZGFjNmI2YTMxMmVjOCIsInRzIjoiMjA1NzEiLCJwIjoicHlpIiwiY2lkIjoiMSIsInNpZyI6ImU2Mjc0NTY3YjBiYjQyNzMxNjM1M2M0MTEwY2JiMzA0ZTk1OTExNjFiYjk3NmJhYmUzOTc5NTQwYmQ3YjhiM2QiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsLCJjcyI6bnVsbCwiY2RuIjpudWxsLCJjcCI6bnVsbCwibWEiOm51bGx9" alt="DOJI"></a>
             </div>
             
             <!-- Mobile Menu Toggle -->
@@ -350,11 +350,11 @@
     <section class="product-lines-section">
         <div class="container">
             <div class="product-lines-intro">
-                <p>Tại Tierra, chúng tôi tạo tác những món trang sức đầy cảm hứng, lan tỏa những giá trị chân thành và hạnh phúc đến người trẻ hiện đại.</p>
+                <p>Tại DOJI, chúng tôi tạo tác những món trang sức đầy cảm hứng, lan tỏa những giá trị chân thành và hạnh phúc đến người trẻ hiện đại.</p>
                 <div class="divider">
                     <i class="fas fa-gem"></i>
                 </div>
-                <h2 class="product-lines-title">Các dòng sản phẩm Tierra</h2>
+                <h2 class="product-lines-title">Các dòng sản phẩm DOJI</h2>
             </div>
             
             <div class="product-lines-grid">
@@ -384,7 +384,7 @@
                         <img src="https://www.tierra.vn/wp-content/uploads/2024/04/about-info-banner.webp" alt="Quy trình chế tác">
                     </div>
                     <div class="history-content">
-                        <p>Ra đời từ năm 2016, Tierra hướng đến mục tiêu đem lại những sự lựa chọn trang sức lý tưởng. Thấu hiểu người trẻ luôn hướng đến sự thẩm mỹ cao, tìm kiếm cảm hứng mới mẻ, mong muốn sáng tạo món trang sức của riêng mình, chúng tôi theo đuổi mô hình thiết kế và chế tác "Bespoke" cùng những dịch vụ khác biệt để việc mua sắm trở thành niềm vui thích, trải nghiệm đặc sắc.</p>
+                        <p>Ra đời từ năm 2016, DOJI hướng đến mục tiêu đem lại những sự lựa chọn trang sức lý tưởng. Thấu hiểu người trẻ luôn hướng đến sự thẩm mỹ cao, tìm kiếm cảm hứng mới mẻ, mong muốn sáng tạo món trang sức của riêng mình, chúng tôi theo đuổi mô hình thiết kế và chế tác "Bespoke" cùng những dịch vụ khác biệt để việc mua sắm trở thành niềm vui thích, trải nghiệm đặc sắc.</p>
                     </div>
                 </div>
 
@@ -415,11 +415,11 @@
     <section class="journey-section">
         <div class="container">
             <div class="journey-header">
-                <h2 class="journey-title">Hành trình của Tierra</h2>
-                <p class="journey-subtitle">Mỗi năm Tierra tự hào đồng hành với hàng ngàn cặp đôi trẻ.</p>
+                <h2 class="journey-title">Hành trình của DOJI</h2>
+                <p class="journey-subtitle">Mỗi năm DOJI tự hào đồng hành với hàng ngàn cặp đôi trẻ.</p>
             </div>
             <div class="journey-image">
-                <img src="https://www.tierra.vn/wp-content/uploads/2024/04/journey-vn.webp" alt="Hành trình của Tierra">
+                <img src="https://www.tierra.vn/wp-content/uploads/2024/04/journey-vn.webp" alt="Hành trình của DOJI">
             </div>
         </div>
     </section>
@@ -484,7 +484,7 @@
                                 <i class="fas fa-chevron-down"></i>
                             </div>
                             <div class="accordion-content">
-                                <p>Tierra luôn đồng hành cùng bạn trong mọi khoảnh khắc đặc biệt, từ lúc lựa chọn đến khi sở hữu và sử dụng sản phẩm.</p>
+                                <p>DOJI luôn đồng hành cùng bạn trong mọi khoảnh khắc đặc biệt, từ lúc lựa chọn đến khi sở hữu và sử dụng sản phẩm.</p>
                             </div>
                         </div>
                     </div>
@@ -561,7 +561,7 @@
     <section class="consultation-section">
         <div class="container">
             <div class="consultation-header">
-                <h2 class="consultation-title">Nhận tư vấn từ Tierra</h2>
+                <h2 class="consultation-title">Nhận tư vấn từ DOJI</h2>
                 <p class="consultation-subtitle">Đăng ký ngay bên dưới để nhận được sự hỗ trợ từ chúng tôi.</p>
                 <div class="divider">
                     <i class="fas fa-gem"></i>
@@ -679,7 +679,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2026 Tierra. All rights reserved.</p>
+                <p>&copy; 2026 DOJI. All rights reserved.</p>
                 <div class="footer-payment">
                     <span>Phương thức thanh toán:</span>
                     <i class="fab fa-cc-visa"></i>

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sản Phẩm - Tierra</title>
+    <title>Sản Phẩm - DOJI</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/search.css">
     <link rel="stylesheet" href="css/auth-dropdown.css">
@@ -19,7 +19,7 @@
     <header class="header">
         <div class="container">
             <div class="logo">
-                <a href="/"><img src="https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNjlmMGQ4OGM2NmQ4ODE5MTlmNDg3OWQxMTA2OWFhNDA6ZmlsZV8wMDAwMDAwMGQwZTA3MjA5OTMxZGFjNmI2YTMxMmVjOCIsInRzIjoiMjA1NzEiLCJwIjoicHlpIiwiY2lkIjoiMSIsInNpZyI6ImU2Mjc0NTY3YjBiYjQyNzMxNjM1M2M0MTEwY2JiMzA0ZTk1OTExNjFiYjk3NmJhYmUzOTc5NTQwYmQ3YjhiM2QiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsLCJjcyI6bnVsbCwiY2RuIjpudWxsLCJjcCI6bnVsbCwibWEiOm51bGx9" alt="Tierra"></a>
+                <a href="/"><img src="https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNjlmMGQ4OGM2NmQ4ODE5MTlmNDg3OWQxMTA2OWFhNDA6ZmlsZV8wMDAwMDAwMGQwZTA3MjA5OTMxZGFjNmI2YTMxMmVjOCIsInRzIjoiMjA1NzEiLCJwIjoicHlpIiwiY2lkIjoiMSIsInNpZyI6ImU2Mjc0NTY3YjBiYjQyNzMxNjM1M2M0MTEwY2JiMzA0ZTk1OTExNjFiYjk3NmJhYmUzOTc5NTQwYmQ3YjhiM2QiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsLCJjcyI6bnVsbCwiY2RuIjpudWxsLCJjcCI6bnVsbCwibWEiOm51bGx9" alt="DOJI"></a>
             </div>
             
             <!-- Mobile Menu Toggle -->
@@ -444,7 +444,7 @@
 
             <!-- Layout riêng cho Trang Sức Cao Cấp -->
             <div style="text-align:center; margin: 40px 0 30px;">
-                <p style="color:#333; font-size:20px; font-weight:600; letter-spacing:1px; margin-bottom:32px;">Khám phá các tác phẩm từ Tierra</p>
+                <p style="color:#333; font-size:20px; font-weight:600; letter-spacing:1px; margin-bottom:32px;">Khám phá các tác phẩm từ DOJI</p>
                 <div style="display:flex; justify-content:center; gap:80px; margin-bottom:40px;" id="tscc-tabs">
                     <div class="tscc-tab active" data-type="nhan" onclick="filterTSCC(this)" style="cursor:pointer; text-align:center;">
                         <img src="https://www.tierra.vn/wp-content/uploads/2025/09/NKC-3-1-2.png" style="width:70px; height:70px; margin-bottom:10px; object-fit:contain;"><br>
@@ -1325,7 +1325,7 @@
         <section class="consultation-section">
             <div class="container">
                 <div class="consultation-header">
-                    <h2 class="consultation-title">Nhận tư vấn từ Tierra</h2>
+                    <h2 class="consultation-title">Nhận tư vấn từ DOJI</h2>
                     <p class="consultation-subtitle">Đăng ký ngay bên dưới để nhận được sự hỗ trợ từ chúng tôi.</p>
                     <div class="divider">
                         <i class="fas fa-gem"></i>
@@ -1450,7 +1450,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2026 Tierra. All rights reserved.</p>
+                <p>&copy; 2026 DOJI. All rights reserved.</p>
                 <div class="footer-payment">
                     <span>Phương thức thanh toán:</span>
                     <i class="fab fa-cc-visa"></i>

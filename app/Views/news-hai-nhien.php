@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bộ Sưu Tập Mới "Hải Nhiên" - Tierra</title>
+    <title>Bộ Sưu Tập Mới "Hải Nhiên" - DOJI</title>
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/search.css">
     <link rel="stylesheet" href="/css/auth-dropdown.css">
@@ -19,7 +19,7 @@
     <header class="header">
         <div class="container">
             <div class="logo">
-                <a href="/"><img src="https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNjlmMGQ4OGM2NmQ4ODE5MTlmNDg3OWQxMTA2OWFhNDA6ZmlsZV8wMDAwMDAwMGQwZTA3MjA5OTMxZGFjNmI2YTMxMmVjOCIsInRzIjoiMjA1NzEiLCJwIjoicHlpIiwiY2lkIjoiMSIsInNpZyI6ImU2Mjc0NTY3YjBiYjQyNzMxNjM1M2M0MTEwY2JiMzA0ZTk1OTExNjFiYjk3NmJhYmUzOTc5NTQwYmQ3YjhiM2QiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsLCJjcyI6bnVsbCwiY2RuIjpudWxsLCJjcCI6bnVsbCwibWEiOm51bGx9" alt="Tierra"></a>
+                <a href="/"><img src="https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNjlmMGQ4OGM2NmQ4ODE5MTlmNDg3OWQxMTA2OWFhNDA6ZmlsZV8wMDAwMDAwMGQwZTA3MjA5OTMxZGFjNmI2YTMxMmVjOCIsInRzIjoiMjA1NzEiLCJwIjoicHlpIiwiY2lkIjoiMSIsInNpZyI6ImU2Mjc0NTY3YjBiYjQyNzMxNjM1M2M0MTEwY2JiMzA0ZTk1OTExNjFiYjk3NmJhYmUzOTc5NTQwYmQ3YjhiM2QiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsLCJjcyI6bnVsbCwiY2RuIjpudWxsLCJjcCI6bnVsbCwibWEiOm51bGx9" alt="DOJI"></a>
             </div>
             <button class="mobile-menu-toggle" onclick="toggleMobileMenu()">
                 <i class="fas fa-bars"></i>
@@ -98,7 +98,7 @@
 
                         <p>"Hải Nhiên" là lựa chọn hoàn hảo cho những người phụ nữ hiện đại, yêu thích sự thanh lịch và tinh tế. Đây cũng là món quà ý nghĩa dành tặng cho người thân yêu trong những dịp đặc biệt.</p>
 
-                        <p>Hãy ghé thăm các cửa hàng Tierra trên toàn quốc để trải nghiệm trực tiếp vẻ đẹp của bộ sưu tập "Hải Nhiên"!</p>
+                        <p>Hãy ghé thăm các cửa hàng DOJI trên toàn quốc để trải nghiệm trực tiếp vẻ đẹp của bộ sưu tập "Hải Nhiên"!</p>
 
                         <div class="news-detail-cta">
                             <a href="/products?category=trang-suc" class="btn-primary">Xem bộ sưu tập</a>

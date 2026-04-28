@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tin tức - Tierra</title>
+    <title>Tin tức - DOJI</title>
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/search.css">
     <link rel="stylesheet" href="/css/auth-dropdown.css">
@@ -20,7 +20,7 @@
         <div class="container">
             <!-- Logo -->
             <div class="logo">
-                <a href="/"><img src="https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNjlmMGQ4OGM2NmQ4ODE5MTlmNDg3OWQxMTA2OWFhNDA6ZmlsZV8wMDAwMDAwMGQwZTA3MjA5OTMxZGFjNmI2YTMxMmVjOCIsInRzIjoiMjA1NzEiLCJwIjoicHlpIiwiY2lkIjoiMSIsInNpZyI6ImU2Mjc0NTY3YjBiYjQyNzMxNjM1M2M0MTEwY2JiMzA0ZTk1OTExNjFiYjk3NmJhYmUzOTc5NTQwYmQ3YjhiM2QiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsLCJjcyI6bnVsbCwiY2RuIjpudWxsLCJjcCI6bnVsbCwibWEiOm51bGx9" alt="Tierra"></a>
+                <a href="/"><img src="https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNjlmMGQ4OGM2NmQ4ODE5MTlmNDg3OWQxMTA2OWFhNDA6ZmlsZV8wMDAwMDAwMGQwZTA3MjA5OTMxZGFjNmI2YTMxMmVjOCIsInRzIjoiMjA1NzEiLCJwIjoicHlpIiwiY2lkIjoiMSIsInNpZyI6ImU2Mjc0NTY3YjBiYjQyNzMxNjM1M2M0MTEwY2JiMzA0ZTk1OTExNjFiYjk3NmJhYmUzOTc5NTQwYmQ3YjhiM2QiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsLCJjcyI6bnVsbCwiY2RuIjpudWxsLCJjcCI6bnVsbCwibWEiOm51bGx9" alt="DOJI"></a>
             </div>
 
             <!-- Mobile Menu Toggle -->
@@ -98,7 +98,7 @@
                 <article class="blog-item" onclick="window.location.href='/news?article=hai-nhien'">
                     <div class="blog-image">
                         <img src="images/tintuc1.png" alt="Hải Nhiên">
-                        <div class="blog-badge">Tierra</div>
+                        <div class="blog-badge">DOJI</div>
                     </div>
                     <div class="blog-content">
                         <h2 class="blog-item-title">BỘ SƯU TẬP MỚI "HẢI NHIÊN" - KHI VẺ ĐẸP KHÔNG CẦN LÊN TIẾNG</h2>
@@ -111,10 +111,10 @@
                 <article class="blog-item" onclick="window.location.href='/news?article=moc-nguyen'">
                     <div class="blog-image">
                         <img src="images/tintuc2.png" alt="Mộc Nguyên">
-                        <div class="blog-badge">Tierra</div>
+                        <div class="blog-badge">DOJI</div>
                     </div>
                     <div class="blog-content">
-                        <h2 class="blog-item-title">Tierra Ra Mắt BST Tháng 3 "Mộc Nguyên" – Vẻ Đẹp Mộc Mạc Cho Mọi Khởi Đầu Mới!</h2>
+                        <h2 class="blog-item-title">DOJI Ra Mắt BST Tháng 3 "Mộc Nguyên" – Vẻ Đẹp Mộc Mạc Cho Mọi Khởi Đầu Mới!</h2>
                         <p class="blog-excerpt">Ra mắt vào tháng 3 – tháng của sự yêu thương và lãn mạn phép đẹp – "Mộc Nguyên" như một lời chào đầu dành gửi đến những người phụ nữ...</p>
                         <a href="/news?article=moc-nguyen" class="blog-read-more" onclick="event.stopPropagation()">Xem thêm</a>
                     </div>
@@ -124,10 +124,10 @@
                 <article class="blog-item" onclick="window.location.href='/news?article=qua-tet'">
                     <div class="blog-image">
                         <img src="https://cdn.pnj.io/images/promo/284/thong-tin-gia-vang.png" alt="Quà Tết">
-                        <div class="blog-badge">Tierra</div>
+                        <div class="blog-badge">DOJI</div>
                     </div>
                     <div class="blog-content">
-                        <h2 class="blog-item-title">"QUÀ TẾT TRAO TAY - NHẬN NGAY ÁO MỚI" - Tierra tặng áo thun cho hóa đơn từ 1 triệu 2</h2>
+                        <h2 class="blog-item-title">"QUÀ TẾT TRAO TAY - NHẬN NGAY ÁO MỚI" - DOJI tặng áo thun cho hóa đơn từ 1 triệu 2</h2>
                         <p class="blog-excerpt">Với mỗi hóa đơn 1 triệu 2 (sau khi áp dụng đối điểm), các nàng sẽ được TẶNG NGAY một chiếc ÁO THUN siêu xinh!</p>
                         <a href="/news?article=qua-tet" class="blog-read-more" onclick="event.stopPropagation()">Xem thêm</a>
                     </div>
@@ -137,11 +137,11 @@
                 <article class="blog-item" onclick="window.location.href='/news?article=khuc-xuan-thi'">
                     <div class="blog-image">
                         <img src="https://www.pnj.com.vn/blog/wp-content/uploads/2022/10/kim-cuong-roi-la-gi-co-nen-mua-kim-cuong-roi-tai-pnj-thumb1.jpg" alt="Khúc Xuân Thi">
-                        <div class="blog-badge">Tierra</div>
+                        <div class="blog-badge">DOJI</div>
                     </div>
                     <div class="blog-content">
-                        <h2 class="blog-item-title">Tierra ra mắt bộ sưu tập xuân "Khúc Xuân Thi" – Thiết kế trang sức vàng đầm xinh đẹp</h2>
-                        <p class="blog-excerpt">Lấy cảm hứng từ chính khoảnh khắc giao mùa đầy thì vị của mùa Xuân, Tierra chính thức ra mắt bộ sưu tập trang sức xuân mang đậm chất thơ mộng...</p>
+                        <h2 class="blog-item-title">DOJI ra mắt bộ sưu tập xuân "Khúc Xuân Thi" – Thiết kế trang sức vàng đầm xinh đẹp</h2>
+                        <p class="blog-excerpt">Lấy cảm hứng từ chính khoảnh khắc giao mùa đầy thì vị của mùa Xuân, DOJI chính thức ra mắt bộ sưu tập trang sức xuân mang đậm chất thơ mộng...</p>
                         <a href="/news?article=khuc-xuan-thi" class="blog-read-more" onclick="event.stopPropagation()">Xem thêm</a>
                     </div>
                 </article>
@@ -150,7 +150,7 @@
                 <article class="blog-item" onclick="window.location.href='/news?article=di-sac'">
                     <div class="blog-image">
                         <img src="https://cdn.pnj.io/images/detailed/250/on-gnddddw015122-nhan-kim-cuong-vang-trang-14k-pnj-6.jpg" alt="Dí Sắc">
-                        <div class="blog-badge">Tierra</div>
+                        <div class="blog-badge">DOJI</div>
                     </div>
                     <div class="blog-content">
                         <h2 class="blog-item-title">Bộ sưu tập "Dí Sắc" - Tôn vinh vẻ đẹp kim cương tinh khiết</h2>
@@ -163,7 +163,7 @@
                 <article class="blog-item" onclick="window.location.href='/news?article=co-the-len'">
                     <div class="blog-image">
                         <img src="https://cdn.pnj.io/images/detailed/258/on-gcpa00y060018-day-co-vang-18k-dinh-ngoc-trai-akoya-pnj-3.jpg" alt="Cô Thể Lên">
-                        <div class="blog-badge">Tierra</div>
+                        <div class="blog-badge">DOJI</div>
                     </div>
                     <div class="blog-content">
                         <h2 class="blog-item-title">Xu hướng trang sức 2026 - "Cô Thể Lên" phong cách hiện đại</h2>
@@ -233,7 +233,7 @@
 
             <!-- Footer Bottom -->
             <div class="footer-bottom">
-                <p>&copy; 2026 Tierra. All rights reserved.</p>
+                <p>&copy; 2026 DOJI. All rights reserved.</p>
                 <div class="footer-payment">
                     <span>Phương thức thanh toán:</span>
                     <i class="fab fa-cc-visa"></i>
