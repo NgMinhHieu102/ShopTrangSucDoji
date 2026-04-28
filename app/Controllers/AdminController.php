@@ -12,7 +12,7 @@ class AdminController {
     public function dashboard() {
         // Kiểm tra đăng nhập admin
         if (!isset($_SESSION['admin_id'])) {
-            header('Location: /admin/login');
+            header('Location: /login');
             exit;
         }
         
@@ -31,29 +31,11 @@ class AdminController {
         require_once BASE_PATH . '/app/Views/admin/dashboard.php';
     }
     
-    public function login() {
-        if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-            $username = $_POST['username'] ?? '';
-            $password = $_POST['password'] ?? '';
-            
-            // Kiểm tra admin (username: admin, password: admin123)
-            if ($username === 'admin' && $password === 'admin123') {
-                $_SESSION['admin_id'] = 1;
-                $_SESSION['admin_name'] = 'Administrator';
-                header('Location: /admin/dashboard');
-                exit;
-            } else {
-                $_SESSION['error'] = 'Tên đăng nhập hoặc mật khẩu không đúng';
-            }
-        }
-        
-        require_once BASE_PATH . '/app/Views/admin/login.php';
-    }
     
     public function logout() {
         unset($_SESSION['admin_id']);
         unset($_SESSION['admin_name']);
-        header('Location: /admin/login');
+        header('Location: /login');
         exit;
     }
     

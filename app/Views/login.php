@@ -59,10 +59,10 @@
 
                 <form action="/login" method="POST" class="auth-form">
                     <div class="form-group">
-                        <label for="email">Email</label>
+                        <label for="email">Email hoặc Tên đăng nhập</label>
                         <div class="input-wrapper">
                             <i class="fas fa-envelope"></i>
-                            <input type="email" id="email" name="email" placeholder="example@email.com" required>
+                            <input type="text" id="email" name="email" placeholder="example@email.com hoặc admin" required>
                         </div>
                     </div>
 
@@ -106,13 +106,6 @@
                 <p class="auth-footer">
                     Chưa có tài khoản? <a href="/register">Đăng ký ngay</a>
                 </p>
-                
-                <div style="text-align: center; margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee;">
-                    <a href="/admin/login" style="color: #667eea; text-decoration: none; font-size: 14px; display: inline-flex; align-items: center; gap: 8px;">
-                        <i class="fas fa-shield-alt"></i>
-                        <span>Đăng nhập Admin</span>
-                    </a>
-                </div>
             </div>
         </div>
     </section>

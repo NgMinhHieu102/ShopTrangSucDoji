@@ -91,9 +91,7 @@ switch ($mainPath) {
         require BASE_PATH . '/app/Controllers/AdminController.php';
         $controller = new AdminController();
         
-        if ($subPath === 'login') {
-            $controller->login();
-        } elseif ($subPath === 'logout') {
+        if ($subPath === 'logout') {
             $controller->logout();
         } elseif ($subPath === 'dashboard' || $subPath === '') {
             $controller->dashboard();

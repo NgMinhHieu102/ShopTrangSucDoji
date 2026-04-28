@@ -32,6 +32,14 @@ class AuthController {
                 exit;
             }
             
+            // Kiểm tra đăng nhập admin (username: admin, password: admin123)
+            if ($email === 'admin' && $password === 'admin123') {
+                $_SESSION['admin_id'] = 1;
+                $_SESSION['admin_name'] = 'Administrator';
+                header('Location: /admin/dashboard');
+                exit;
+            }
+            
             // Tìm user theo email
             $stmt = $this->conn->prepare("SELECT * FROM users WHERE email = :email");
             $stmt->bindParam(':email', $email);
