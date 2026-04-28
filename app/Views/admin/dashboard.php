@@ -223,6 +223,10 @@
             box-shadow: 0 2px 10px rgba(0,0,0,0.05);
         }
         
+        .chart-card canvas {
+            max-height: 350px;
+        }
+        
         .chart-header {
             margin-bottom: 20px;
             padding-bottom: 15px;
@@ -541,7 +545,8 @@
             },
             options: {
                 responsive: true,
-                maintainAspectRatio: false,
+                maintainAspectRatio: true,
+                aspectRatio: 2.5,
                 plugins: {
                     legend: {
                         display: true,
@@ -581,7 +586,8 @@
             },
             options: {
                 responsive: true,
-                maintainAspectRatio: false,
+                maintainAspectRatio: true,
+                aspectRatio: 1.5,
                 plugins: {
                     legend: {
                         position: 'bottom'
