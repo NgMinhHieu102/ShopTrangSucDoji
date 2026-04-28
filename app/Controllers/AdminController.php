@@ -57,11 +57,33 @@ class AdminController {
             exit;
         }
         
-        // Lấy tất cả sản phẩm
-        $stmt = $this->db->query("SELECT * FROM products ORDER BY created_at DESC");
+        // Lấy tất cả sản phẩm (không phải cao cấp)
+        $stmt = $this->db->query("
+            SELECT * FROM products 
+            WHERE collection != 'luxury' OR collection IS NULL
+            ORDER BY created_at DESC
+        ");
         $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
         
         require_once BASE_PATH . '/app/Views/admin/products.php';
+    }
+    
+    public function luxuryProducts() {
+        // Kiểm tra đăng nhập admin
+        if (!isset($_SESSION['admin_id'])) {
+            header('Location: /login');
+            exit;
+        }
+        
+        // Lấy sản phẩm cao cấp
+        $stmt = $this->db->query("
+            SELECT * FROM products 
+            WHERE collection = 'luxury' OR category = 'trang-suc-cao-cap'
+            ORDER BY created_at DESC
+        ");
+        $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
+        
+        require_once BASE_PATH . '/app/Views/admin/luxury-products.php';
     }
     
     public function customers() {

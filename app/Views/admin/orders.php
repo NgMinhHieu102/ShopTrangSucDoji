@@ -98,6 +98,7 @@
             <li><a href="/admin"><i class="fas fa-chart-line"></i> Dashboard</a></li>
             <li><a href="/admin?action=orders" class="active"><i class="fas fa-shopping-bag"></i> Đơn hàng</a></li>
             <li><a href="/admin?action=products"><i class="fas fa-gem"></i> Sản phẩm</a></li>
+            <li><a href="/admin?action=luxury-products"><i class="fas fa-crown"></i> SP Cao cấp</a></li>
             <li><a href="/admin?action=customers"><i class="fas fa-users"></i> Khách hàng</a></li>
             <li><a href="/admin?action=reports"><i class="fas fa-file-alt"></i> Báo cáo</a></li>
             <li><a href="/admin?action=settings"><i class="fas fa-cog"></i> Cài đặt</a></li>

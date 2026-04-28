@@ -103,6 +103,9 @@ switch ($mainPath) {
             case 'products':
                 $controller->products();
                 break;
+            case 'luxury-products':
+                $controller->luxuryProducts();
+                break;
             case 'customers':
                 $controller->customers();
                 break;
