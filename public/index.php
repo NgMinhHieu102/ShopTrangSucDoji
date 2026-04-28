@@ -87,6 +87,22 @@ switch ($mainPath) {
         $controller->logout();
         break;
     
+    case 'admin':
+        require BASE_PATH . '/app/Controllers/AdminController.php';
+        $controller = new AdminController();
+        
+        if ($subPath === 'login') {
+            $controller->login();
+        } elseif ($subPath === 'logout') {
+            $controller->logout();
+        } elseif ($subPath === 'dashboard' || $subPath === '') {
+            $controller->dashboard();
+        } else {
+            // Các trang admin khác sẽ thêm sau
+            $controller->dashboard();
+        }
+        break;
+    
     case 'account':
         require BASE_PATH . '/app/Views/account.php';
         break;
